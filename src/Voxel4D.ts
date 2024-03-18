@@ -1,0 +1,2 @@
+class Voxel4D {
+}
